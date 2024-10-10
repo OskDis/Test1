@@ -18,6 +18,7 @@
         <td>内容2</td>
     </tr>
 </table>
+<img src="https://img.shields.io/badge/license-MIT-blue" alt="License Badge">
 
 
 ## 功能
