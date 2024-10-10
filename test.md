@@ -4,6 +4,21 @@
 
 ## 简介
 这是一个示例项目，用于展示如何创建一个漂亮的 README 文档。
+<span style="color: red;">这是红色文字</span>
+<div style="background-color: lightblue; padding: 10px;">
+    这是一个带有背景色和内边距的 div。
+</div>
+<table>
+    <tr>
+        <th>标题1</th>
+        <th>标题2</th>
+    </tr>
+    <tr>
+        <td>内容1</td>
+        <td>内容2</td>
+    </tr>
+</table>
+
 
 ## 功能
 - 功能1
